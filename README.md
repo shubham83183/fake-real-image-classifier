@@ -5,6 +5,4 @@ Task Description:
    * Bilinear interpolation
    * Bicubic interpolation
    * Pixel shuffle
-2. Is the model working for other up sampling techniques?
-3. Can we get better results by using vertical and horizontal projections instead of
-radial ones, when images are transformed in frequency domain?
+
